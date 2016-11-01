@@ -1,0 +1,9 @@
+C:\TrainingDemo\HelloWorld\RegressionTests\obj\Debug\RegressionTests.csprojResolveAssemblyReference.cache
+C:\TrainingDemo\HelloWorld\RegressionTests\bin\Debug\RegressionTests.dll
+C:\TrainingDemo\HelloWorld\RegressionTests\bin\Debug\RegressionTests.pdb
+C:\TrainingDemo\HelloWorld\RegressionTests\bin\Debug\HelloWorld.exe
+C:\TrainingDemo\HelloWorld\RegressionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\TrainingDemo\HelloWorld\RegressionTests\bin\Debug\HelloWorld.pdb
+C:\TrainingDemo\HelloWorld\RegressionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\TrainingDemo\HelloWorld\RegressionTests\obj\Debug\RegressionTests.dll
+C:\TrainingDemo\HelloWorld\RegressionTests\obj\Debug\RegressionTests.pdb
